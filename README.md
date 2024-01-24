@@ -51,6 +51,3 @@ Complete setting up the web app for the model.
 ## Acknowledgements
 Special thanks to all the contributors and researchers in the field of sign language recognition for their valuable insights and datasets.
 
----
-
-This README provides a comprehensive overview of the Sign Language Detector Model project. Dive in to explore the fascinating world of sign language recognition using deep learning! 🤟🚀🤖
