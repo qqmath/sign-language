@@ -44,8 +44,8 @@ Complete setting up the web app for the model.
 
 ## Results and Evaluation
 
-![alt text]([http://url/to/img.png](https://github.com/qqmath/sign-language/blob/main/performance.png
-))
+![alt text](https://github.com/qqmath/sign-language/blob/main/performance.png
+)
 
 
 ## Acknowledgements
