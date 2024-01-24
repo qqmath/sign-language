@@ -1,4 +1,4 @@
-# README for Sign Language Detector Model
+# Sign Language Detector Model
 
 ## Project Overview
 This repository contains the implementation of a Sign Language Detector Model using TensorFlow and Keras. The model is designed to recognize and classify different sign language gestures from images, making it a valuable tool for facilitating communication with the deaf and hard-of-hearing community.
