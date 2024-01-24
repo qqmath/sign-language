@@ -40,9 +40,12 @@ The model is trained and validated on a dataset containing images of various sig
 
 ## TODO
 
-Complete setting up the web app for this model.
+Complete setting up the web app for the model.
 
 ## Results and Evaluation
+
+![alt text]([http://url/to/img.png](https://github.com/qqmath/sign-language/blob/main/performance.png
+))
 
 
 ## Acknowledgements
